@@ -1,0 +1,18 @@
+{
+  "combine_datasets": [
+    "vidstg"
+  ],
+  "combine_datasets_val": [
+    "vidstg"
+  ],
+<<<<<<< HEAD
+  "vidstg_vid_path": "/media/HardDisk_A/dataset/spatial_temporal_video_grounding/VidSTG",
+  "vidor_ann_path": "/media/HardDisk_A/dataset/spatial_temporal_video_grounding/VidSTG/annotations/VidOR",
+  "vidstg_ori_ann_path": "/media/HardDisk_A/dataset/spatial_temporal_video_grounding/VidSTG/annotations/VidSTG",
+=======
+  "vidstg_vid_path": "/media/HardDisk_C/wwk/datasets/spatial_temporal_video_grounding/VidSTG",
+  "vidor_ann_path": "/media/HardDisk_C/wwk/datasets/spatial_temporal_video_grounding/VidSTG/annotations/VidOR",
+  "vidstg_ori_ann_path": "/media/HardDisk_C/wwk/datasets/spatial_temporal_video_grounding/VidSTG/annotations/VidSTG",
+>>>>>>> eff6c2695ffd3b3e9699b6c4296bac2429cc6ba9
+  "vidstg_ann_path": "./annotations/VidSTG"
+}
